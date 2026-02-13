@@ -39,6 +39,16 @@ geometric-object-area-calculator
 
 ---
 
+## 🛠️ Technologies Used
+
+* Java
+* OOP Principles (Encapsulation, Inheritance, Polymorphism)
+* Interfaces
+* File I/O
+* Java Swing (GUI)
+  
+---
+
 ## ▶️ How to Run
 
 ### 1️⃣ Compile
@@ -54,13 +64,8 @@ java Driver
 ```
 
 ---
+## 📸ScreenShot
 
-## 🛠️ Technologies Used
+![GUI Screenshot](images/img.png)
 
-* Java
-* OOP Principles (Encapsulation, Inheritance, Polymorphism)
-* Interfaces
-* File I/O
-* Java Swing (GUI)
-
-
+---
